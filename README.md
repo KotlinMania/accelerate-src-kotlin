@@ -51,7 +51,7 @@ will be licensed according to the terms given in [LICENSE.md](LICENSE.md).
 
 ```kotlin
 dependencies {
-    implementation("io.github.kotlinmania:accelerate-src-kotlin:0.3.2")
+    implementation("io.github.kotlinmania:accelerate-src-kotlin:0.1.0")
 }
 ```
 
